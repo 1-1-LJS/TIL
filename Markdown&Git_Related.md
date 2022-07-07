@@ -15,7 +15,7 @@ rm –r 폴더명 : 폴더 삭제하기
 
 파일 디렉토리에서 파일 이름 중간에 빈공간이 있는경우는　새\폴더 와같이 backslash를 이용해준다
 
-
+~~practice~~ 
 
 add 스테이징 commit 버전 기록
 
@@ -31,6 +31,8 @@ $ git commit -m '커밋메시지'
 상태 확인할 때
 $ git status : 1통, 2통
 $ git log : 커밋 확인
+
+$ git log --oneline : 한줄로 커밋 상태 확인
 
 
 git init (master) 를 삭제하려면
