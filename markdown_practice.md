@@ -4,7 +4,7 @@
 
 ## 1. 개요
 
-![Python](C:\Users\user\Desktop\TIL\Markdown/markdown_practice.assets/pahkey_KRRKrp.png)
+![Python](./markdown_practice.assets/pahkey_KRRKrp.png)
 
 
 
